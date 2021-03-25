@@ -1,4 +1,4 @@
-# CPU
+# Virtual Central Processing Unit (CPU)
 
 
 ## Description
